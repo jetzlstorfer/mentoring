@@ -105,6 +105,13 @@ Project maintainers and mentors, please submit the ideas below (under the Propos
 - Mentor(s): Jürgen Etzlstorfer (@jetzlstorfer)
 - Issue: <https://github.com/keptn/keptn/issues/3822>
 
+##### Provide a hub for Keptn integrations, extensions & services
+
+- Description: Currently, Keptn services and integrations can be found on an overview page at https://keptn.sh/docs/integrations/ While this served fine as a central overview of all currently supported integrations, a more sophisticated "integrations hub" is desired. The hub should list all available integrations including their name, status, install numbers/github stars, description, and installation instructions. The project includes a research task of other hubs and how they are built.  
+- Recommended Skills: UX/UI, JavaScript, GoLang (a plus but not mandatory) 
+- Mentor(s): Jürgen Etzlstorfer (@jetzlstorfer)
+- Issue: <https://github.com/keptn/keptn/issues/3406>
+
 #### Racklet
 
 ##### Open source scale-model of Data Centers using commodity compute like Raspberry Pis
